@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aung-Pyae-Sone-Shan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP Full Stack Web Development
-- 💞️ I’m looking to collaborate on volunteer , interns , ojt and job.
+- 💞️ I’m looking to collaborate on Volunteer , Interns , Ojt and Job.
 - 📫 How to reach me aungpyaesoneshan16@gmail.com
 
 <!---
